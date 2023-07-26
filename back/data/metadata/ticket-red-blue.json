@@ -1,0 +1,15 @@
+{
+  "attributes": [
+    {
+      "trait_type": "quality",
+      "value": "uncommon"
+    },
+    {
+      "trait_type": "color",
+      "value": "red-blue"
+    }
+  ],
+  "description": "Uncommon red-blue lottery ticket",
+  "image": "ipfs://QmcZy5dR4wQr47VvHcTavfdutTkKnZgw5LhkP5q4jbXjyk",
+  "name": "Ticket"
+}

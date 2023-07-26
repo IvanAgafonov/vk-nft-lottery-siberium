@@ -1,0 +1,18 @@
+#timer {  
+    font-size: 3em;
+    font-weight: 100;
+    color: blue;
+    text-shadow: 0 0 20px #48C8FF;
+}
+#timer div {
+      display: inline-block;
+      min-width: 90px;
+}
+      
+#timer div span {
+        color: #B1CDF1;
+        display: block;
+        font-size: .35em;
+        font-weight: 400;
+      }
+    

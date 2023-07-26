@@ -1,0 +1,15 @@
+{
+  "attributes": [
+    {
+      "trait_type": "quality",
+      "value": "rare"
+    },
+    {
+      "trait_type": "color",
+      "value": "gold"
+    }
+  ],
+  "description": "Rare gold lottery ticket",
+  "image": "ipfs://QmZHAmonVbp4DGo4FbGaCKgKnNxnJyT1VJXK7XwVmVNRwf",
+  "name": "Ticket"
+}

@@ -1,0 +1,5 @@
+Flask~=2.3.2
+yoyo-migrations~=8.2.0
+web3~=6.4.0
+ipfshttpclient~=0.7.0
+py-solc-x~=1.1.1

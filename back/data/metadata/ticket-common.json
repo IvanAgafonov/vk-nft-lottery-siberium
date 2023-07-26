@@ -1,0 +1,15 @@
+{
+  "attributes": [
+    {
+      "trait_type": "quality",
+      "value": "common"
+    },
+    {
+      "trait_type": "color",
+      "value": "white"
+    }
+  ],
+  "description": "Common white lottery ticket",
+  "image": "ipfs://QmceFzHhfcbGihq19Tyx8Zn4Mjf14ZGaXGWf6aBUwp5rXA",
+  "name": "Ticket"
+}
