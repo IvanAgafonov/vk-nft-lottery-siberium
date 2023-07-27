@@ -61,8 +61,7 @@ react, vkontakte/vkui
 
 # Команда и контакты
 
-Ivan Agafonov - developer - [github](https://github.com/IvanAgafonov) -  
-[telegram](https://t.me/Foodfox_Ivan_Hashcodev)
+Ivan Agafonov - developer - [github](https://github.com/IvanAgafonov) - [telegram](https://t.me/Foodfox_Ivan_Hashcodev)
 
 # Инструкция
 
